@@ -1,0 +1,8 @@
+
+Adapter Design Pattern, bir sýnýfý bir arayüze uygun hale getirmek için kullanýlýr.
+
+Senaryo
+YoutubeAPI
+VimeoAPI
+3th party framework veya kütüphanelerinden gelen iki video apisini tek bir arayüz üzerinden
+kullanmamýz gerekiyor. Nasýl yaparýz ?

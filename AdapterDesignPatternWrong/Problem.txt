@@ -1,0 +1,2 @@
+Youtube ve Vimeo frameworklerindeki API sýnýflarýna müdahale edemiyoruz.
+Bu da soyutlama yapmamýza engel oluyor.
